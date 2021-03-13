@@ -1,6 +1,6 @@
 # Algorithm Challenges
 
-##About this repository
+## About this repository
 Here is where I upload my Algorithm pratice files.
 Algorithm plays essential role in programming, they are our tools in coding and to be a great Developer, it is important to be practice algorithm.
 Because:
@@ -16,8 +16,8 @@ I find the varieties of questions from many website, such as:
 
 Thank you, for checking out this page.
 
-##About me
-Jin Kim - https://github.com/kimjin-012 - https://www.linkedin.com/in/jin-kim-code/
+## About me
+Jin Kim - [Github](https://github.com/kimjin-012) - [LinkedIn](https://www.linkedin.com/in/jin-kim-code/)
 
-##Contact
+## Contact
 na02093@gmail.com
