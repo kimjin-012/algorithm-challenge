@@ -11,8 +11,8 @@ Because:
 Becoming a Algorithm master is a long road. I hope by creating this seperate algorithm repository would motivate me to commit to practice 😄
 
 I find the varieties of questions from many website, such as:
-*HackerRank
-*Leetcode
+* HackerRank
+* Leetcode
 
 Thank you, for checking out this page.
 
