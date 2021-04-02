@@ -12,6 +12,7 @@
 */
 function twoSum(nums, targetSum){
     var test = 0;
+    var active = 0;
     var results = [];
     for(var i=active+1; i<nums.length; i++){
         test = nums[active] + nums[i];
