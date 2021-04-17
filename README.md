@@ -5,10 +5,10 @@ Here is where I upload my Algorithm pratice files.
 Algorithm plays essential role in programming, they are our tools in coding and to be a great Developer, it is important to be practice algorithm.
 Because:
 - Algorithms are everywhere in our codes.
-- It helps us increase our problem solving skills
+- It helps us increase our problem solving skills.
 - They helps us writes more cleaner and easier code.
 
-Becoming a Algorithm master is a long road. I hope by creating this seperate algorithm repository would motivate me to commit to practice 😄
+Becoming a Algorithm master is a long road. I hope by creating this seperate algorithm repository would help me to practice 😄
 
 I find the varieties of questions from many website, such as:
 * HackerRank
