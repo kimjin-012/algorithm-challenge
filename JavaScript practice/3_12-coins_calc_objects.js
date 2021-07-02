@@ -17,7 +17,7 @@ function countcoins(cents){
 }
     
     
-    // console.log(quarter, dime, nickle, cents)
+// console.log(quarter, dime, nickle, cents)
 console.log(countcoins(99));
 
 function countcoins2(coins){

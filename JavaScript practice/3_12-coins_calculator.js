@@ -17,3 +17,18 @@ function generateCoinChange(cents){
     }
 }
 generateCoinChange(244);
+
+// or in dictionary
+function index(a) {
+    var dict = {}
+    var type = [5, 10, 25, 100];
+    var name = ['nickle', 'dime', 'quarter', 'dollar']
+    for(var i = 3; i >= 0; i--){
+        dict[name[i]] = Math.floor(a/type[i]);
+        a -= dict[name[i]] * type[i];
+    }
+    dict['penny'] = a;
+
+    return dict;
+}
+console.log(index(244))

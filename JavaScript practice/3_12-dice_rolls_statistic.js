@@ -3,6 +3,9 @@ function rollOne(min,max){
     var max = Math.floor(max);
     return Math.floor(Math.random()*(max-min+1)+min);
 }
+// function index(min, max) {
+//     return Math.floor(Math.random() * (max - min + 1) + min)
+// }
 // console.log(rollOne(1,5));
 
 function playFives(num){
