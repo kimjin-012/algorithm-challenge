@@ -3,7 +3,7 @@ function isPalindrome(str) {
     for (i = str.length - 1; i>=0; i--){
         newstring += str[i];
     }
-    if (str = newstring){
+    if (str == newstring){
         return true;
     } else{
         return false;
