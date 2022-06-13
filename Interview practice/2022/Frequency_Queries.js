@@ -1,5 +1,6 @@
 /*
 HackerRank url : https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+HackerRank is working well with the "const [que, val] = queries[i]" but it does not work well with vscode, working on the issues.
 */
 const example = [(1,1),(2,2),(3,2),(1,1),(1,1),(2,1),(3,2)];
 
