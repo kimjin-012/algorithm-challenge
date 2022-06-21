@@ -6,9 +6,9 @@ class Result{
     public static void countSwaps(List<int> a)
     {
         int numSwap = 0;
-        foreach(int i in a)
+        for(int i=0; i<a.Count; i++)
         {
-            foreach(int x in a)
+            for(int x=0; x<a.Count-1; x++ )
             {
                 if(a[x] > a[x+1])
                 {
@@ -21,6 +21,7 @@ class Result{
         }
 
         Console.WriteLine("Array is sorted in " + numSwap + " swaps.");
-        Console.WriteLine();
+        Console.WriteLine("First Element: " + a[0]);
+        Console.WriteLine("Last Element: " + a[a.Count - 1]);
     }
 }
